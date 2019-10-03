@@ -1,6 +1,9 @@
 # Face-Recognition-Attendance
 An automatic attendance system that uses face recognition to update attendance of individuals in the database.
 
+Dependencies-
+OpenCV, Keras, Pandas, Numpy and some basic libraries.
+
 Steps to use:
 
 1) Open system.py
