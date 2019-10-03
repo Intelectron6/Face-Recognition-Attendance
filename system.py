@@ -14,7 +14,7 @@ while True:
 	x = input("Enter admin or user (A/U): ")
 	if x.lower() == 'a':
 		y = input("Enter password")
-		if y == 'tequedlabs':
+		if y == 'wizards':
 			print("Confirmed")
 			z = input("Do you want to add new student samples? (y/n)").lower()
 			if z == 'y':
